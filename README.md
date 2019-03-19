@@ -1,4 +1,4 @@
-#Python Jobs
+# Python Jobs
 
 Jobs is a (under constant development) Python API for submitting jobs to SLURM and LSF
 batch schedulers.
